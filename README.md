@@ -4,7 +4,7 @@
 
 * Raspberry pi 3 B+
 * Python 3
-* python RC-522 library
+* python pi-RC-522 library
 * python PYLCD library [for controlling lcd display]
 
 ##Information
